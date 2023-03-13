@@ -1,0 +1,24 @@
+[
+  {
+  "name": "Paulo Andreola",
+  "age": 47,
+  "height": 1.72,
+  "working": true,
+  "job_details": {
+      "job": "trainee developer",
+      "company": "Sidelab/Dataside"
+    },
+  "hobbies": ["cycling", "gym", "reader"]
+  },
+  {
+  "name": "Paulo Cesar Andreola",
+  "age": 48,
+  "height": 1.73,
+  "working": false,
+  "job_details": {
+      "job": null,
+      "company": null
+    },
+  "hobbies": ["learning", "gym", "camping"]
+  }
+]
